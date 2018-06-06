@@ -1,0 +1,2 @@
+[12-Oct-2015 14:39:12 UTC] PHP Parse error:  syntax error, unexpected 'PHP_SELF' (T_STRING), expecting ',' or ';' in /home/marpha/public_html/marpha.fi/wp-content/plugins/unavailable.php on line 21
+[12-Oct-2015 14:41:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/marpha/public_html/marpha.fi/wp-content/plugins/unavailable.php on line 19
